@@ -22,18 +22,18 @@ export default {
   },
   created() {
       this.tasks = [
-      {
-        "id": "1",
-        "text": "Doctors Appointment",
-        "day": "March 5th at 2:30pm",
-        "reminder": true
-      },
-      {
-        "id": "2",
-        "text": "Meeting with boss",
-        "day": "March 6th at 1:30pm",
-        "reminder": false
-      }
+        {
+          "id": "1",
+          "text": "Doctors Appointment",
+          "day": "March 5th at 2:30pm",
+          "reminder": true
+        },
+        {
+          "id": "2",
+          "text": "Meeting with boss",
+          "day": "March 6th at 1:30pm",
+          "reminder": false
+        }
     ]
   }
 }
